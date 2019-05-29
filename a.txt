@@ -1,5 +1,5 @@
 hello ,I am zhang!
 this is my first git file!
-aaaaaaadd!
+aaaaaaadd! test conflit in master
 bbbbbbbbbbbb!
 changed in hot_fix!
